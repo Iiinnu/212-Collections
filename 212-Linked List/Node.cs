@@ -9,5 +9,6 @@ public class Node
     public void DisplayNode()
     {
         Console.WriteLine(Data);
+        
     }
 }

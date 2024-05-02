@@ -13,11 +13,11 @@ for (int i = 0; i < numbers.Count; i++)
 
 ArrayList arrayList = new ArrayList();
 
-arrayList.Add(true);
-arrayList.Add("forsbergs");
-arrayList.Add("a");
-arrayList.Add(1000);
-arrayList.Add(.12f);
+arrayList.Add(true);               
+arrayList.Add("forsbergs");        
+arrayList.Add("a");                
+arrayList.Add(1000);               
+arrayList.Add(.12f);               
 
 for (int i = 0; 1 < arrayList.Count; i++)
 {
