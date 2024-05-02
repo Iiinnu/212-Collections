@@ -1,0 +1,14 @@
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/bin/Debug/net7.0/212-Linked List
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/bin/Debug/net7.0/212-Linked List.deps.json
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/bin/Debug/net7.0/212-Linked List.runtimeconfig.json
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/bin/Debug/net7.0/212-Linked List.dll
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/bin/Debug/net7.0/212-Linked List.pdb
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/212-Linked List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/212-Linked List.AssemblyInfoInputs.cache
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/212-Linked List.AssemblyInfo.cs
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/212-Linked List.csproj.CoreCompileInputs.cache
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/212-Linked List.dll
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/refint/212-Linked List.dll
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/212-Linked List.pdb
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/212-Linked List.genruntimeconfig.cache
+/Users/unnie.jansson/RiderProjects/212-Collections/212-Linked List/obj/Debug/net7.0/ref/212-Linked List.dll
